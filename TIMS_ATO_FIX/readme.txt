@@ -12,8 +12,8 @@ ATO_enable.ini
    则ATO_enable.ini中为atoenabled =200
    （autopilot.ini中是反过来的所以没办法直接读取）
 2. 将autopilot.ini中的 XX = break 删去
-3. 在detailmodules中，bve-autopilot一定要放在TIMS之后，ATO_enable一定要放在bve-autopilot之后
-   正确写法：
+3. 在detailmodules.txt中，bve-autopilot一定要放在TIMS之后，ATO_enable一定要放在bve-autopilot之后
+   正确格式：
    ...
    ...
    ..\..\..\..\TIMS_new\TIMS_new_m.dll
