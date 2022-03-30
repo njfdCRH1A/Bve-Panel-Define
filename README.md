@@ -1,3 +1,3 @@
-# Bve-Panel-Define
+# Bve-tools
 
 Designed for Notepad++
